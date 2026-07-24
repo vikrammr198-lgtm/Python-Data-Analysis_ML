@@ -1,10 +1,5 @@
 # Python-Data-Analysis_ML
 A collection of Python notebooks covering Data Analysis , Visualizaion , Machine Learning and Exploratory Data Analysis
-# Python Data Analysis & Machine Learning
-
-## About
-
-This repository contains my practice notebooks while learning Python, Data Analysis, Machine Learning, and Data Visualization.
 
 ## Topics Covered
 
